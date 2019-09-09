@@ -1,4 +1,5 @@
+GIT !!
 GIT is FREE
-GIT IS GOOD
-I LIKE GIT
+GIT IS very GOOD
+I very LIKE GIT
 
